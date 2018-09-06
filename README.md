@@ -9,6 +9,8 @@ Companion is designed to track student attendance using Bluetooth Low Energy bea
 * [Companion Backend](https://github.com/MakeSchool-Companion-App/Companion-Backend)
 * [Companion iOS](https://github.com/MakeSchool-Companion-App/Companion-iOS)
 * [Companion Android](https://github.com/MakeSchool-Companion-App/Companion-Android)
+* [Prototype Backend](https://github.com/matthewharrilal/MakeCompanionBackend)
+* [Prototype iOS](https://github.com/oct0f1sh/MakeSchoolCompanion)
 
 ## Team Members
 * [Duncan MacDonald](https://github.com/oct0f1sh) - Product Manager
