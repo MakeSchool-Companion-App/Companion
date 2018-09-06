@@ -1,5 +1,4 @@
 # Companion
----
 Companion is designed to track student attendance using Bluetooth Low Energy beacons. 
 
 ## What You Need
